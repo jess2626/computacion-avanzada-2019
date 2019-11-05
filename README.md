@@ -2,5 +2,5 @@
 <h2> Jesvier Montes </h2>
 <h3> MPLS </h3>
 
-<p> Este es un repositorio donde se hospedan los proyectos y tareas relacionadas con la catedra de computacion acanzada </p>
+<p> Este es un repositorio donde se hospedan los proyectos y tareas relacionadas con la catedra de computacion avanzada </p>
  
